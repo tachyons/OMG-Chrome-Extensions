@@ -1,0 +1,1 @@
+import * as Messenger from 'js/Utils/Messenger';
